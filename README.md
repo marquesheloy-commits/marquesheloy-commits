@@ -1,16 +1,17 @@
-## Hi there 👋
+### Olá 👋
 
-<!--
-**marquesheloy-commits/marquesheloy-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou a Heloysa Marques, sou estudante de Full Stack, atualmente estou aprendento e criando projetos com:
+<br>
+<br>
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" /> 
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+
+
+
+[![Heloysa GitHub stats](https://github-readme-stats.vercel.app/api?username=marquesheloy-commits)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marquesheloy-commits)](https://github.com/anuraghazra/github-readme-stats)
