@@ -1,6 +1,12 @@
-### Olá 👋
-
-Eu sou a Heloysa Marques, sou estudante de Full Stack, atualmente estou aprendento e criando projetos com:
+✈️ Uma decolagem para o sucesso.
+<br>
+ <h1>Sou Heloysa Marques, estudante de Full Stack pelo Devclub</h1> 
+ <br>
+ <br>
+ <h2>Depois de muitos anos, sem saber realmente o que queria fazer na minha, me vi na programação</h2>
+ <br>
+ <br>
+<h3>Nessa nova caminhada da minha vida, aprendi:</h3>
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" /> 
